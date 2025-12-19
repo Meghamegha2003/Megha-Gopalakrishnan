@@ -29,7 +29,7 @@ I am a highly motivated **Full Stack Developer** with a deep focus on building s
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="32" style="vertical-align: middle;"> Technical Arsenal
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"/> Tech Stack
 
 🌐 **Frontend**
 <br>
@@ -48,13 +48,19 @@ I am a highly motivated **Full Stack Developer** with a deep focus on building s
 <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,postman" />
 
 ---
+### <img src="https://media2.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="30"/> GitHub Analytics
 
-### 📊 Technical Dashboard
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meghamegha2003&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghamegha2003&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghamegha2003&layout=compact&theme=tokyonight&border_radius=10" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meghamegha2003&label=PROFILE+VIEWS&color=0077B5&style=flat" alt="Megha Views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meghamegha2003&theme=tokyonight" width="97%" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meghamegha2003&label=PROFILE+VIEWS&color=00D1FF&style=for-the-badge" />
 </p>
